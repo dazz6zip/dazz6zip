@@ -10,8 +10,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dazz6zip&show_icons=true&theme=flag-india)
 
-
-
 <!--
 **dazz6zip/dazz6zip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
