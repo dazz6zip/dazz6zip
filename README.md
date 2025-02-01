@@ -6,7 +6,7 @@ while (true) {
 }
 ```
 
-## #contact 
+## #meabout 
 <a href="mailto:dazz6@kakao.com">
   <img src="https://img.shields.io/badge/dazz6@kakao.com-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/>
 </a>
