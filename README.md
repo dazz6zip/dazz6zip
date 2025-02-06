@@ -27,7 +27,7 @@ while (true) {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## #menow
+## #menow 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dazz6zip&show_icons=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dazz6zip&layout=compact)
