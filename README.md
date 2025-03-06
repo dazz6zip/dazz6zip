@@ -1,11 +1,7 @@
 # 📂 dazz6.zip
-<a href="mailto:dazz6@kakao.com">
-  <img src="https://img.shields.io/badge/dazz6@kakao.com-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/>
-</a>
-
-<a href="https://dazz6study.tistory.com" target="_blank">
-  <img src="https://img.shields.io/badge/Tistory-FF7700?style=flat-square&logo=Tistory&logoColor=white"/>
-</a>
+&emsp;├── [![MAIL](https://img.shields.io/badge/dazz6@kakao.com-FFCD00?style=for-the-badge)](mailto:dazz6@kakao.com)
+<br/>
+&emsp;├── [![TISTORY](https://img.shields.io/badge/TISTORY-FF7700?style=for-the-badge)](https://dazz6study.tistory.com)
 
 ```
 while (true) {
